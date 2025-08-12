@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3d73615-9d86-475f-b435-37fdc80001fb" name="Changes" comment="change in LP">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/loginpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/loginpage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gunjanbendale23/Cucumber_framework.git",
-    "accountId": "7c6dea4c-833f-41ce-bcd0-66d09a35aeed"
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gunjanbendale23"
   }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gunjanbendale23/Cucumber_framework.git&quot;,
+    &quot;accountId&quot;: &quot;7c6dea4c-833f-41ce-bcd0-66d09a35aeed&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -170,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755015085448</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="change in LP">
+      <option name="closed" value="true" />
+      <created>1755015303389</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755015303389</updated>
+    </task>
+    <task id="LOCAL-00010" summary="change in LP">
+      <option name="closed" value="true" />
+      <created>1755015391994</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755015391994</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

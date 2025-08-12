@@ -38,6 +38,7 @@ public class loginpage extends CommanActions {
         setUsername(uid);
         setpassword(pwd);
         clicklogin();
+
     }
 
     public  void setUsername(String uid)
