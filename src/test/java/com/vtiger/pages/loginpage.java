@@ -14,7 +14,6 @@ public class loginpage extends CommanActions {
         super(driver);
         this.driver=driver;
         PageFactory.initElements(driver ,this);
-        System.out.println(" ");
     }
 
     @FindBy(name = "user_name")

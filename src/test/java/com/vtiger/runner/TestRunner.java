@@ -21,7 +21,6 @@ import org.junit.runner.RunWith;
         }
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
-
       /*  @Override
         @DataProvider(parallel = true)
         public Object[][] scenarios() {
