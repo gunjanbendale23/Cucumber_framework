@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d73615-9d86-475f-b435-37fdc80001fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/Accountpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/Accountpage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/loginpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/loginpage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/runner/TestRunner.java" afterDir="false" />
-    </list>
+    <list default="true" id="f3d73615-9d86-475f-b435-37fdc80001fb" name="Changes" comment="changes rollback" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +98,27 @@
       <option name="presentableId" value="Default" />
       <updated>1753870415901</updated>
     </task>
+    <task id="LOCAL-00001" summary="changes rollback">
+      <option name="closed" value="true" />
+      <created>1754989569286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754989569286</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changes rollback">
+      <option name="closed" value="true" />
+      <created>1754989761490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754989761490</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes rollback" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes rollback" />
   </component>
 </project>
