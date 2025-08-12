@@ -35,6 +35,7 @@ public class loginpage extends CommanActions {
 
     public  void login(String uid, String pwd)
     {
+
         setUsername(uid);
         setpassword(pwd);
         clicklogin();
