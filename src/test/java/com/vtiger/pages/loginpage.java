@@ -37,7 +37,7 @@ public class loginpage extends CommanActions {
     {
         setUsername(uid);
         setpassword(pwd);
-        clicklogin();//
+        clicklogin();
 
     }
 
